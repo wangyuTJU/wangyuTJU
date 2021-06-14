@@ -16,11 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: assistant research fellow at the College of Intelligence and Computing of Tianjin University (TJU), China.
 
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Data mining and machine learning
-- Image classification and fault diagnosis
+# News to show in About widget
+news:
+- One paper has been published on IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 5th June
+- One paper has been accepted to 2021 IEEE International conference on Image Processing (ICIP), 20th, May
+- One paper has been accepted to International Journal of Machine Learning and Cybernetics (JMLC), 15th, Apr.
+- One paper has been accepted to IEEE Transactions on Cybernetics, 1st, Feb.
 
 # Education to show in About widget
 # education:
